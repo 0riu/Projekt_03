@@ -324,7 +324,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1184663395}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.5, y: 0, z: 0}
   m_LocalScale: {x: 1.5, y: 0.6, z: 1}
   m_ConstrainProportionsScale: 0
@@ -516,9 +516,9 @@ MonoBehaviour:
   S2: {fileID: 1184663396}
   S3: {fileID: 1832879713}
   rotationSpeedS1: 50
-  orbitSpeedS2: 45
-  orbitSpeedS3: 150
-  orbitRadiusS2: 3.5
+  orbitSpeedS2: 50
+  orbitSpeedS3: 50
+  orbitRadiusS2: 3
   orbitRadiusS3: 1.5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
